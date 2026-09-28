@@ -1,6 +1,6 @@
 # inheritance
 
-In deze oefening onderzoek je hoe [overerving](https://webtechnologie.apload.be/css/inheritance) werkt en hoe [CSS variabelen](https://webtechnologie.apload.be/css/variabelen) daarvan gebruik maken.
+In deze oefening onderzoek je hoe [overerving](https://webtechnologie.apload.be/css/cascade/inheritance) werkt en hoe [CSS variabelen](https://webtechnologie.apload.be/css/variabelen) daarvan gebruik maken.
 
 ## Stap 1: korte experimenten
 

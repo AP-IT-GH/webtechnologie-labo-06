@@ -1,6 +1,6 @@
 # specificiteit
 
-In deze oefening oefen je op de [voorrangsregels](https://webtechnologie.apload.be/css/voorrangsregels): welke stijlregel wint als er meerdere regels op hetzelfde element van toepassing zijn?
+In deze oefening oefen je op de [voorrangsregels](https://webtechnologie.apload.be/css/cascade): welke stijlregel wint als er meerdere regels op hetzelfde element van toepassing zijn?
 
 ## Stap 1: neem de code over
 
