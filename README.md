@@ -31,3 +31,5 @@ webtechnologie/
 1. [tickets](tickets/)
 2. [schedule](schedule/)
 3. [occupancy](occupancy/)
+4. [specificiteit](specificiteit/)
+5. [inheritance](inheritance/)
