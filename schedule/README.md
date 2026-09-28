@@ -6,3 +6,7 @@ Bouw je lessenrooster voor de eerste drie dagen van de week week na, waarbij bep
 * Voeg je eigen vakken toe (bv. webtechnologie, databases, programmeren) voor minstens de eerste 3 dagen van de week.
 * Voorzie elk vak van een eigen achtergrondkleurtje (gebruik een `class`) en zorg ervoor dat de tekst voldoende contrast heeft om leesbaar te zijn tegen de achtergrond. (bv. witte tekst op rode achtergrond, zwarte tekst op licht-roze achtergrond)
 * Zorg dat elke `td` en `th` een min-width krijgt van 120px. Op die manier staat elk blokje mooi uitgelijnd met het begin van elk uur.
+
+## Verwacht resultaat
+
+![schedule](./opgave.png)
